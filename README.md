@@ -1,3 +1,3 @@
 # FinancialEngineering
 
-吳柏儒，物理四，B04202007
+吳柏儒，B04202007，物理四
