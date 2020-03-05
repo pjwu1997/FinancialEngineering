@@ -1,3 +1,8 @@
 # FinancialEngineering
 
-吳柏儒，B04202007，物理四
+## About Me
+
+吳柏儒，學號B04202007，物理四（雙主修經濟系）
+
+
+
